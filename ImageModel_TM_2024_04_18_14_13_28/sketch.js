@@ -64,6 +64,14 @@ function classifyVideo() {
 // When we get a result
 function gotResult(error, results) {
   // If there is an error
+console.log(results)
+if(results[0].label=="zebra-crossing-busy"){
+  serial.write("1")
+
+}
+else{
+  serial.write("0")
+}
   if (error) {
     console.error(error);
     return;

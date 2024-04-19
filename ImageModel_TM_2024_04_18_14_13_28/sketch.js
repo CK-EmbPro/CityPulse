@@ -66,11 +66,11 @@ function gotResult(error, results) {
   // If there is an error
 console.log(results)
 if(results[0].label=="zebra-crossing-busy"){
-  serial.write("1")
+  serial.write("0")
 
 }
 else{
-  serial.write("0")
+  serial.write("1")
 }
   if (error) {
     console.error(error);

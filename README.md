@@ -1,8 +1,8 @@
-#CityPulse
+# CityPulse
 
 CityPulse is a cutting-edge traffic management system driven by artificial intelligence and computer visioning, aimed at revolutionizing urban transportation for improved sustainability, efficiency, and safety. By leveraging real-time data and predictive analytics, CityPulse prioritizes the safety of cyclists and pedestrians while optimizing traffic flow.
 
-##Features
+## Features
 
 - **Real-time Data Analysis** : CityPulse continuously collects and analyzes real-time data from various sources such as traffic cameras, sensors, and mobile devices to provide up-to-date insights into traffic patterns and conditions.
 
@@ -17,7 +17,7 @@ CityPulse is a cutting-edge traffic management system driven by artificial intel
 - **Environmental Impact Minimization**: CityPulse contributes to environmental sustainability by minimizing the environmental impact of urban transportation. By optimizing traffic flow and reducing congestion, CityPulse helps lower emissions and improve air quality in cities.
 
 
-##How It Works
+## How It Works
 
 - **Data Collection**: CityPulse gathers data from various sources including traffic cameras, sensors embedded in roads, mobile devices, and public transportation systems.
 
@@ -27,15 +27,15 @@ CityPulse is a cutting-edge traffic management system driven by artificial intel
 
 - **Traffic Management**: Based on the insights gathered, CityPulse dynamically adjusts traffic signals, reroutes vehicles, and provides real-time updates to drivers and pedestrians to optimize traffic flow and enhance safety.
 
-##Impact
+## Impact
 
 CityPulse is influencing the direction of intelligent and sustainable urban mobility by leveraging AI, computer visioning, and data analytics to address the complex challenges of modern transportation systems. Its innovative approach to traffic management promotes safety, efficiency, and environmental sustainability, making cities more livable and accessible for all residents.
 
-##Get Involved
+## Get Involved
 
 Interested in contributing to CityPulse or integrating it into your city's transportation infrastructure? Contact us to learn more about partnership opportunities and how you can join us in shaping the future of urban mobility.
 
-#Contact
+## Contact
 
 Email: kennydebrice2@gmail.com <br>
 Phone: +250798594425

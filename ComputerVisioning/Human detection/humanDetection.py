@@ -1,5 +1,5 @@
 import cv2
-cap = cv2.VideoCapture('./videos/y2mate.com - Flavour  Game Changer Dike Official Video_720pFH.mp4')
+cap = cv2.VideoCapture('./videos/y2mate.com - Flavour  Game Changer Dike Official Video_720pFH.mp4s')
 human_cascade = cv2.CascadeClassifier('haarcascade_fullbody.xml')
 
 while(True):
